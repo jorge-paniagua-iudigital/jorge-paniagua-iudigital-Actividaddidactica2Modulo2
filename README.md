@@ -85,7 +85,6 @@ Estructura del proyecto
 ├── main.ipynb
 ├── main.py
 ├── README.md
-├── requirements.txt
 └── resultados/
     ├── dashboard.png
     └── simulacion.png
